@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class TestingCalculator {
+class CalculatorTest {
 
     @Test
     void testAddition() {
